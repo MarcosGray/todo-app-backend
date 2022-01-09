@@ -24,6 +24,8 @@
 
 ## Description
 
+Projeto desenvolido em Nestjs, com o objetivo de treinar implementação de código, documentação com swagger e implementação de testes unitários. Projeto ainda em desenvolvimento...
+
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
